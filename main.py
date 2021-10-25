@@ -1,8 +1,4 @@
 #!/usr/bin/env python3
-#
-# Simple pyprofibus dummy example using dummy PHY.
-# This example can be run without any PB hardware.
-#
 
 import pyprofibus
 import sys
